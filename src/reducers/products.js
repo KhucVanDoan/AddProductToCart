@@ -3,7 +3,7 @@ var initialState = [
     id: 1,
     name: "Iphone 7 Plus",
     image:
-      "https://i.ndh.vn/2021/05/20/iphone13lailomaumoirosepinkcucnutinhee6a32191-1621466207.jpg",
+      "https://tintuc.shopdunk.com/wp-content/uploads/2017/01/iPhone-7-nhai.jpg",
     description: "Sản phẩm do apple sản phẩm",
     price: 500,
     inventory: 10,
@@ -11,9 +11,9 @@ var initialState = [
   },
   {
     id: 2,
-    name: "Iphone 13 mini",
+    name: "Iphone 8",
     image:
-      "https://i.ndh.vn/2021/05/20/iphone13lailomaumoirosepinkcucnutinhee6a32191-1621466207.jpg",
+      "https://image-us.24h.com.vn/upload/2-2019/images/2019-06-11/1560241082-762-2-1560234445-width660height440.jpg",
     description: "Sản phẩm do samsung sản phẩm",
     price: 400,
     inventory: 15,
